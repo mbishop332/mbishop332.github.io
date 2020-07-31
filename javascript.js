@@ -13,8 +13,12 @@ var heroes = [
 	'Simba from the Lion King',
 	'Cinderella',
 	'Bella Swan from Twilight',
-
-
+	'Archie Andrews from Riverdale',
+	'Naruto',
+	'Spongebob Squarepants',
+	'Bigfoot',
+	'Pikachu',
+	'the Loch Ness Monster',
 ]
 
 var villains = [
@@ -28,9 +32,15 @@ var villains = [
 'Benjamin Franklin, 18th century inventor and Founding Father of the United States',
 'Alexander Hamilton, 18th century economist and Founding Father of the United States',
 'Iron Man',
-
-
-
+'Harry Potter',
+'Winnie the Pooh',
+'Spider-Man',
+'a Minecraft zombie',
+'Darth Vader',
+'Godzilla',
+'Raymond from Animal Crossing',
+'Mal from Descendants',
+'Maleficent from Sleeping Beauty',
 ]
 
 var places = [
