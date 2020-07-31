@@ -9,7 +9,7 @@ var heroes = [
 	'Rey from Star Wars',
 	'Ariana Grande',
 	'Sonic the Hedgehog',
-	'Mario and Luigi',
+	'Super Mario',
 	'Simba from the Lion King',
 	'Cinderella',
 	'Bella Swan from Twilight',
@@ -19,6 +19,11 @@ var heroes = [
 	'Bigfoot',
 	'Pikachu',
 	'the Loch Ness Monster',
+	'Voldemort',
+	'Katniss Everdeen',
+	'Harry Styles, singer and former member of One Direction',
+	'Taylor Swift',
+	'Remy, the rat from Ratatouille'
 ]
 
 var villains = [
@@ -41,6 +46,12 @@ var villains = [
 'Raymond from Animal Crossing',
 'Mal from Descendants',
 'Maleficent from Sleeping Beauty',
+'Dracula',
+'Wonder Woman',
+'Batman',
+'Squidward',
+'Waluigi',
+'Mickey Mouse',
 ]
 
 var places = [
@@ -67,6 +78,7 @@ var places = [
 'on an Alaskan dogsled race',
 'a cruise ship',
 'a mysterious cottage',
+'an abandoned mine shaft'
 ]
 
 function newHero() {
